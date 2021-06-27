@@ -2,7 +2,7 @@
 
 Source : https://docs.google.com/document/d/1G__eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit
 
-Signed by (First Name Alphbetical Order) on 23rd June 2021 - 
+Signed by (First Name Alphabetical Order) on 23rd June 2021 -
 
 - Felix Weber
 - Filip Blagojević
