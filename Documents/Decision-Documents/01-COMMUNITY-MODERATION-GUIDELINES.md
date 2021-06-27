@@ -1,3 +1,20 @@
+# Swarm Decision Document 01 - COMMUNITY MODERATION GUIDELINES
+
+Source : https://docs.google.com/document/d/1G__eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit
+
+Signed by (First Name Alphbetical Order) on 23rd June 2021 - 
+
+- Felix Weber
+- Filip Blagojević
+- Jakob Dickhaut
+- Stephen Whitenstall
+- Tevo Saks
+- Victor Corcino
+
+![2021-06-27](https://user-images.githubusercontent.com/25156451/123544579-e20db400-d74b-11eb-9efd-f3cff687c9b5.png)
+
+
+
 ## COMMUNITY MODERATION GUIDELINES
 
 Project Catalyst lays the foundation of collective innovation and on-chain governance for the Cardano ecosystem. This is an exciting moment for the whole Cardano community because decision making is being transferred to ada holders and migrated away from federated authorities. Simply put, your creativity and  ideas will build Cardano into the next decade and beyond.
@@ -8,7 +25,9 @@ To make sure that Project Catalyst thrives, it is essential we encourage the bes
 
 Remember we're all in this together
 
-The point of decentralization is ensuring that everyone has a level playing field to collaborate, regardless of where they were born, what they believe, and how they identify. It is important for developers to show experience relevant to their proposal. However, evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity. The innovation platform was created to leave prejudice behind in order to find ideas which address the fund challenge. Be good citizens and treat everyone with respect.
+The point of decentralization is ensuring that everyone has a level playing field to collaborate, regardless of where they were born, what they believe, and how they identify. It is important for developers to show experience relevant to their proposal. 
+
+However, evaluation of ideas based upon personal identity should not touch upon physical appearance, religious beliefs, cultural backgrounds, sexual orientation, and/or national identity. The innovation platform was created to leave prejudice behind in order to find ideas which address the fund challenge. Be good citizens and treat everyone with respect.
 
 ## Support
 
