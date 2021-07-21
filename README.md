@@ -6,6 +6,15 @@
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Catalyst-Swarm/The-Beehive)](https://github.com/Catalyst-Swarm/The-Beehive)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Catalyst-Swarm/The-Beehive?style=flat-square)](https://github.com/Catalyst-Swarm/The-Beehive)
 
-This will be README text
+## What is Catalyst Swarm:
+We are a community-driven initiative, supporting Cardano in its mission to build a universal decentralized system that provides access to a global society and economy.
+
+Join us on Discord and follow us on Twitter
+
+## Our Mission:
+
+- **CONNECT**: We bring the community together to unleash its full potential.
+- **INCLUDE**: We build bridges to ensure the diversity of the Cardano community.
+- **EMPOWER**: We encourage everyone to act and lead by creating space to do so.
 
 
