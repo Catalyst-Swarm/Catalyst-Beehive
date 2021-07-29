@@ -1,6 +1,6 @@
 ---
-name: After-Towm-Hall
-about: After-Towm-Hall
+name: After-Town-Hall
+about: After-Town-Hall
 title: After Town Hall - [Date]
 labels: After Town Hall, Weekly Tasks
 assignees: ''
