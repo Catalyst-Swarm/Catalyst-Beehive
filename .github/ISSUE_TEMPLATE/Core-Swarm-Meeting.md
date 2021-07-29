@@ -10,6 +10,8 @@ assignees: 'Sapereaude7'
 ## Core Swarm Meeting - Date, Time
 
 - Last Meeting - link to last meeting Issue
+
+
 ### Moderator
 - [ ] JakobD
 
@@ -28,3 +30,5 @@ Checked Names confirmed as Attendees.
 - [x] @stephen-rowan
 
 ## Agenda Items
+
+List of Open Agenda Items - https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues?q=is%3Aissue+is%3Aopen+label%3A%22Agenda+Item%22
