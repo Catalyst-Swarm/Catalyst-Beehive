@@ -1,6 +1,6 @@
 ---
 name: After-Town-Hall
-about: After-Town-Hall
+about: Create an After-Town-Hall Issue record.
 title: After Town Hall - [Date]
 labels: After Town Hall, Weekly Tasks
 assignees: ''
