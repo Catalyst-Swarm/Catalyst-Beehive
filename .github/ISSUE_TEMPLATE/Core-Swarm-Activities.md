@@ -1,6 +1,6 @@
 ---
 name: Core-Swarm-Activities
-about: Create a Core-Swarm-Activities Issue record.
+about: Create a Core-Swarm-Activities Issue record for the day.
 title: Core Swarm Activities -  - [Date]
 labels: Weekly Tasks
 assignees: ' stephen-rowan '
