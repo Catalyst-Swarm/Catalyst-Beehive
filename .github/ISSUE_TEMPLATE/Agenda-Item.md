@@ -1,6 +1,6 @@
 ---
 name: Agenda-Item
-about: Agenda-Item
+about: Raise an Agenda-Item - assigned to Jacob and yourself.
 title: Agenda-Item - [Subject]
 labels: Agenda-Item, Weekly Tasks
 assignees: 'Sapereaude7'
