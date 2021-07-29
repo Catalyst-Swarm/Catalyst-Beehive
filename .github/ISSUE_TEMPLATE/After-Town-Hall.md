@@ -25,11 +25,9 @@ assignees: ''
 ## Host Checklist for sessions
 
 - [ ] The host or co-host should assert the main subject over anyone who misdirects the session.
-- [ ] This will help to keep the discussion and get the expected results
 - [ ] Before each session a host should have prepared some content or know what they intend to present.
 - [ ] Some preparation always helps
 - [ ] When the session starts the host should ask if the attendees mind being recorded.
-- [ ] This will help us to find out if we can upload the video to the Swarm session Youtube channel.
 - [ ] The host should record the session (if there are no objections).
 - [ ] The host or co-host should take notes of the session.
 
