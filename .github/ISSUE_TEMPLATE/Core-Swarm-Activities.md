@@ -28,3 +28,5 @@ Checked Names confirmed as contributors.
 - [x] @stephen-rowan
 
 ## Today's Activities
+
+- Activities
