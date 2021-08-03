@@ -9,6 +9,9 @@ assignees: ' stephen-rowan '
 
 ## Core Swarm Activities - [Date]
 
+- Previous Day - 
+- Next Day -
+
 This Issue is intended as a daily record of Core Swarm Activities. It includes a checklist of who contributed to Core Swarm on this day and a "Today's Activities" section where links to this day's major events and tasks can be linked.
 
 This approach is still a work in progress and is intended as a prototype for tracking Core Swarm
