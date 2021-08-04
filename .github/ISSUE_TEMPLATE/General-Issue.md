@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-# Issue - [Subject]
+# [Subject]
 
 Please describe your Issue here ...
