@@ -20,4 +20,7 @@ Join us on Discord and follow us on Twitter
 - **INCLUDE**: We build bridges to ensure the diversity of the Cardano community.
 - **EMPOWER**: We encourage everyone to act and lead by creating space to do so.
 
+## Fund 6
+Here is some information about our Fund 6 proposals.
+
 
