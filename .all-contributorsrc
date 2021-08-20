@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Sapereaude7",
+      "name": "JakobD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82663830?v=4",
+      "profile": "https://github.com/Sapereaude7",
+      "contributions": [
+        "talk"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Catalyst-Beehive",
+  "projectOwner": "Catalyst-Swarm",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
