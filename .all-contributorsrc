@@ -13,6 +13,15 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "dominiktilman",
+      "name": "Dominik Tilman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80850851?v=4",
+      "profile": "http://swarm4catalyst.com",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,
