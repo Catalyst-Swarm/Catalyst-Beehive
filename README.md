@@ -1,6 +1,6 @@
 # Catalyst-Beehive
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![GitHub open issues](https://img.shields.io/github/issues/Catalyst-Swarm/The-Beehive?style=flat-square)](https://github.com/Catalyst-Swarm/The-Beehive/issues)
@@ -40,6 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Sapereaude7"><img src="https://avatars.githubusercontent.com/u/82663830?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JakobD</b></sub></a><br /><a href="#talk-Sapereaude7" title="Talks">📢</a></td>
     <td align="center"><a href="http://swarm4catalyst.com"><img src="https://avatars.githubusercontent.com/u/80850851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dominik Tilman</b></sub></a><br /><a href="#fundingFinding-dominiktilman" title="Funding Finding">🔍</a></td>
     <td align="center"><a href="https://github.com/whitevo"><img src="https://avatars.githubusercontent.com/u/10964567?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tevo Saks</b></sub></a><br /><a href="#data-whitevo" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/wolstaeb"><img src="https://avatars.githubusercontent.com/u/82072426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Robert O'Brien</b></sub></a><br /><a href="#ideas-wolstaeb" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
