@@ -22,6 +22,15 @@
       "contributions": [
         "fundingFinding"
       ]
+    },
+    {
+      "login": "whitevo",
+      "name": "Tevo Saks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10964567?v=4",
+      "profile": "https://github.com/whitevo",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
