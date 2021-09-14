@@ -8,8 +8,10 @@ assignees: 'Sapereaude7'
 ---
 
 ## Core Swarm Meeting - Date, Time
+[![Zoom Meeting Badge](https://img.shields.io/badge/Meeting-Zoom-blue)](https://us02web.zoom.us/j/81132158682)
 
 - Last Meeting - link to last meeting Issue
+- Next Meeting - 
 
 
 ### Moderator
