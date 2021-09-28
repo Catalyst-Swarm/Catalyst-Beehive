@@ -5,8 +5,7 @@
 
 name: Core Swarm Activities
 on:
-  schedule:
-    - cron: 05 00 * * *
+  workflow_dispatch
     
 jobs:
   create_issue:
