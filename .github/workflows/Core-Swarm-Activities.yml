@@ -1,0 +1,50 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+name: Core Swarm Activities
+on:
+  schedule:
+    - cron: 05 00 * * *
+    
+jobs:
+  create_issue:
+    name: Create team sync issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Today's date
+        run: echo "TODAY=$(date '+ %A, %dth %B, %Y')" >> $GITHUB_ENV
+      - name: Create team sync issue
+        uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
+        with:
+          assignees: "stephen-rowan"
+          labels: "Weekly Tasks"
+          title: Core Swarm Activities - ${{ env.TODAY }}
+          body: |
+            ### Core Swarm Activities - ${{ env.TODAY }}
+            
+            This Issue is intended as a daily record of Core Swarm Activities. It includes a checklist of who contributed to Core Swarm on this day and a "Today's Activities" section where links to this day's major events and tasks can be linked.
+            This approach is still a work in progress and is intended as a prototype for tracking Core Swarm
+            ## Today's Contributors ?
+              Checked Names confirmed as contributors.
+              - [ ] DominikTilman
+              - [ ] FelixWeber
+              - [ ] Filip
+              - [ ] JakobD
+              - [ ] Tevo 
+              - [ ] Victor Corcino
+              - [ ] Seomon 
+            ## Documentation
+              - [x] stephen-rowan
+                    
+            ### Today's Activities
+            
+            
+            - Today's Activities           
+          pinned: false
+          close-previous: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
