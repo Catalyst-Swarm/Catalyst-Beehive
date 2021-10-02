@@ -3,9 +3,10 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Core Swarm Activities
+name: Core Swarm Activities2
 on:
-  workflow_dispatch
+  schedule:
+    - cron: 00 00 * * *
     
 jobs:
   create_issue:
@@ -42,7 +43,7 @@ jobs:
             ### Today's Activities
             
             
-            - Today's Activities           
+            - Today's Activities           )
           pinned: false
           close-previous: false
         env:
