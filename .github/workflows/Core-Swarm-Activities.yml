@@ -21,7 +21,7 @@ jobs:
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
           assignees: "stephen-rowan"
-          labels: "Weekly Tasks"
+          labels: "Core Swarm Activities"
           title: Core Swarm Activities - ${{ env.TODAY }}
           body: |
             ### Core Swarm Activities - ${{ env.TODAY }}
@@ -48,6 +48,6 @@ jobs:
             
             - Today's Activities - 
           pinned: false
-          close-previous: false
+          close-previous: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
