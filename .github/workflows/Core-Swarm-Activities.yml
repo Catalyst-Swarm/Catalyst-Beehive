@@ -49,5 +49,6 @@ jobs:
             - Today's Activities - 
           pinned: false
           close-previous: true
+          linked-comments: true 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
