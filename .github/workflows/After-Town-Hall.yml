@@ -4,8 +4,9 @@
 # documentation.
 
 name: After-Town-Hall
-on:
-  workflow_dispatch
+on :
+  schedule:
+    - cron: 0 0 * * 3
     
 jobs:
   create_issue:
