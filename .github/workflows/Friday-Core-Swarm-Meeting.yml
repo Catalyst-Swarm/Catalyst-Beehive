@@ -4,8 +4,9 @@
 # documentation.
 
 name: Friday-Core-Swarm-Meeting
-on:
-  workflow_dispatch
+on :
+  schedule:
+    - cron: 0 11 * * 5
     
 jobs:
   create_issue:
