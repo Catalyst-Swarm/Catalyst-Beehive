@@ -4,8 +4,9 @@
 # documentation.
 
 name: Monday-Core-Swarm-Meeting
-on:
-  workflow_dispatch
+on :
+  schedule:
+    - cron: 0 11 * * 1
     
 jobs:
   create_issue:
@@ -19,7 +20,7 @@ jobs:
       - name: Monday-Core-Swarm-Meeting
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
-          assignees: "stephen-rowan"
+          assignees: "Sapereaude7"
           labels: "Core-Swarm-Meeting"
           title: Core-Swarm-Meeting - ${{ env.TODAY }}
           body: |
@@ -29,7 +30,7 @@ jobs:
             * Next Day - 
             
             ### Moderator
-            - [x] JakobD -Sapereaude7
+            - [x] JakobD 
 
             ### Attendees
             Checked Names confirmed as Attendees.
