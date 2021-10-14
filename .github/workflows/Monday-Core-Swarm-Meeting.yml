@@ -21,9 +21,9 @@ jobs:
         with:
           assignees: "stephen-rowan"
           labels: "Core-Swarm-Meeting"
-          title: Core-Swarm-Meeting - - ${{ env.TODAY }}
+          title: Core-Swarm-Meeting - ${{ env.TODAY }}
           body: |
-            ### Core-Swarm-Meeting - - ${{ env.TODAY }}
+            ### Core-Swarm-Meeting - ${{ env.TODAY }}
             
             * Previous Meeting - https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/{{ previousIssueNumber }}
             * Next Day - 
@@ -43,6 +43,12 @@ jobs:
             - [ ] @stephen-rowan
 
             ## Agenda Items
+            
+            ### Check-Up
+            - [ ]
+            
+            ### After Town Hall
+            - [ ]
 
           pinned: false
           close-previous: true
