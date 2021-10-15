@@ -3,9 +3,10 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Core Swarm Activities
+name: Core Swarm Activities2
 on:
-  workflow_dispatch
+  schedule:
+    - cron: 00 00 * * *
     
 jobs:
   create_issue:
@@ -20,10 +21,13 @@ jobs:
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
           assignees: "stephen-rowan"
-          labels: "Weekly Tasks"
+          labels: "Core Swarm Activities"
           title: Core Swarm Activities - ${{ env.TODAY }}
           body: |
             ### Core Swarm Activities - ${{ env.TODAY }}
+            
+            * Previous Day - https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/{{ previousIssueNumber }}
+            * Next Day - 
             
             This Issue is intended as a daily record of Core Swarm Activities. It includes a checklist of who contributed to Core Swarm on this day and a "Today's Activities" section where links to this day's major events and tasks can be linked.
             This approach is still a work in progress and is intended as a prototype for tracking Core Swarm
@@ -42,8 +46,9 @@ jobs:
             ### Today's Activities
             
             
-            - Today's Activities           
+            - Today's Activities - 
           pinned: false
-          close-previous: false
+          close-previous: true
+          linked-comments: true 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
