@@ -1,13 +1,13 @@
 ---
-name: Weekly Swarm-Activities
+name: Felix Weekly Swarm-Activities
 about: Create a Swarm-Activities Issue record for the week.
-title: Weekly Swarm-Activities  - Week 46 - Monday, November 15, 2021 to Sunday November 21, 2021
+title: Huuhu, Felix's Week 46 - Monday, November 15th to Sunday November 21, 2021
 labels: Weekly Tasks
 assignees: 'stephen-rowan'
 
 ---
 
-## Felix's Weekly Swarm Activities -  Week 46 - Monday, November 15, 2021 to Sunday November 21, 2021
+## Felix's Week 46 - Monday, November 15, 2021 to Sunday November 21, 2021
 https://www.epochconverter.com/weeks/2021
 - Previous Week - 45
 - Next Week - 47
