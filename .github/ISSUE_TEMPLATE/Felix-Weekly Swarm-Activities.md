@@ -17,28 +17,28 @@ This Issue is intended as a weekly record of the Swarm Activities of Felix
 ## Documentation
 - [x] @stephen-rowan
 
-## Monday
+## Monday, November 15th
 - Activities
 
 
-## Tuesday
+## Tuesday, November 16th
 - Activities
 
 
-## Wednesday
+## Wednesday, November 17th
 - Activities
 
-## Thursday
-- Activities
-
-
-## Friday
+## Thursday, November 18th
 - Activities
 
 
-## Saturday
+## Friday, November 19th
 - Activities
 
 
-## Sunday
+## Saturday, November 20th
+- Activities
+
+
+## Sunday, November 21st
 - Activities
