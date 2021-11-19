@@ -1,35 +1,33 @@
 ---
-name: Core-Swarm-Activities
-about: Create a Core-Swarm-Activities Issue record for the day.
+name: Weekly Swarm-Activities
+about: Create a Swarm-Activities Issue record for the week.
 title: Core Swarm Activities -  - [Date]
 labels: Weekly Tasks
-assignees: ' stephen-rowan '
+assignees: 'stephen-rowan'
 
 ---
 
-## Core Swarm Activities - [Date]
+## Weekly Swarm Activities - [Date]
 
-- Previous Day - 
-- Next Day -
+- Previous Week - 
+- Next Week -
 
-This Issue is intended as a daily record of Core Swarm Activities. It includes a checklist of who contributed to Core Swarm on this day and a "Today's Activities" section where links to this day's major events and tasks can be linked.
-
-This approach is still a work in progress and is intended as a prototype for tracking Core Swarm
-
-## Today's Contributors ?
-Checked Names confirmed as contributors.
-
-- [ ] DominikTilman
-- [ ] FelixWeber
-- [ ] Filip
-- [ ] JakobD
-- [ ] Tevo 
-- [ ] Victor Corcini
-- [ ] Seomon 
+This Issue is intended as a weekly record of Swarm Activities. 
 
 ## Documentation
 - [x] @stephen-rowan
 
-## Today's Activities
-
+## Sunday
+- Activities
+## Monday
+- Activities
+## Tuesday
+- Activities
+## Wednesday
+- Activities
+## Thursday
+- Activities
+## Friday
+- Activities
+## Saturday
 - Activities
